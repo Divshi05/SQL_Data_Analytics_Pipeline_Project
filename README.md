@@ -181,8 +181,7 @@ git clone https://github.com/Divshi05/SQL-Exploratory-Data-Analysis-Project.git
 
 **Divshi05** — [GitHub Profile](https://github.com/Divshi05)
 
-git clone https://github.com/Divshi05/SQL-Exploratory-Data-Analysis-Project.git
-Create the gold schema and tables in PostgreSQL
+
 Update file paths in 0-Load_Data.sql to your local CSV locations
 Run scripts in order from 0 to 12
 👤 Author
